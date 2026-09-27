@@ -6,4 +6,5 @@ print("Liczba ocen:", len(wyniki))
 print("Średnia:", statistics.mean(wyniki))
 print("Mediana:", statistics.median(wyniki))
 (max(wyniki))
+dopisuje
 
